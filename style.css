@@ -1,0 +1,79 @@
+
+
+.header-bg-color{
+    background-color:#1F2235 ;
+}
+h1 {
+    color: #0087A5;
+    font-family: 'Bitter', serif;
+    font-weight: bolder;
+    
+}
+.nav-items{
+    margin-left: 310px;
+    padding: 30px;
+}
+
+.nav-item:hover {
+    background-color: #0087A5;
+    border-radius: 5px;
+    
+    
+}
+img{
+    width: 380px;
+    height: 380px;
+}
+.icons{
+    margin-left: 180px;
+}
+.main-bg-color{
+    background-color: #24263B;
+    height: 500px;
+    padding-top: 55px;
+}
+.services-bg-color{
+    background-color: #1F2235;
+    height: 700px;
+}
+.services-cards{
+    background-color: #24263B;
+    height: 300px;
+    border-radius: 5px;
+}
+.services-cards:hover{
+    background-color:#0087A5;
+}
+hr{
+    color: #0087A5;
+    width: 100px;
+    margin: auto;
+    font-weight:bolder;
+    padding: 3px;
+    
+}
+.about-bg-color{
+    background-color: #24263B;
+    height: 700px;
+    
+}
+.skill-bg-color{
+   background-color: #1F2235; 
+   height: 700px;
+}
+.contact-bg-color{
+    background-color:#24263B ;
+    height: 700px;
+}
+.contact-button{
+    margin-left: 500px;
+    margin-top: 20px;
+}
+.footer-bg-color{
+    background-color:#1F2235 ;
+}
+.footer-nav-items{
+    margin-left: 400px;
+    padding: 10px;
+    
+}
